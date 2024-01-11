@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmdrajgupta&show_icons=true&locale=en" alt="jmdrajgupta" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmdrajgupta&" alt="jmdrajgupta" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmdrajgupta&" alt="Stats" /></p>
