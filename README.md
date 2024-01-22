@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about **javaScript**
-
 - 📫 How to reach me **jmdrajkumargupta2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
